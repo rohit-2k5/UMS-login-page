@@ -146,6 +146,14 @@ h3{
     border-radius: 4px;
 }
 
+.useridandpasswordinput:focus { 
+    outline: none; 
+}
+
+.selectbutton:focus{
+    outline:none;
+}
+
 .forgotyourpassword{
     display: flex;
     justify-content: flex-end;
